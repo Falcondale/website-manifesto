@@ -77,10 +77,10 @@ export default function LandingPage() {
 
             <div className="highlights-grid">
               <div className="highlight-box">
-                <div className="highlight-number">50,000+</div>
+                <div className="highlight-label">Proprietary Code</div>
                 <div className="highlight-text">
-                  Lines of bespoke code developing unique methodologies to enhance 
-                  performance across industry-standard challenges.
+                  Over 50,000 lines of bespoke code developing unique methodologies 
+                  to enhance performance across industry-standard challenges.
                 </div>
               </div>
 
@@ -109,9 +109,9 @@ export default function LandingPage() {
               </div>
 
               <div className="highlight-box">
-                <div className="highlight-number">10+</div>
+                <div className="highlight-label">Ready to Deploy</div>
                 <div className="highlight-text">
-                  Ready-to-deploy QML and Optimization models available for 
+                  More than 10 QML and Optimization models available for 
                   immediate industry application.
                 </div>
               </div>
