@@ -75,11 +75,45 @@ export default function LandingPage() {
               be efficiently achieved with today's software and hardware stack.
             </p>
 
-            <div className="highlight-box">
-              <div className="highlight-number">50,000+</div>
-              <div className="highlight-text">
-                Lines of bespoke code developing unique methodologies to enhance 
-                performance across industry-standard challenges.
+            <div className="highlights-grid">
+              <div className="highlight-box">
+                <div className="highlight-number">50,000+</div>
+                <div className="highlight-text">
+                  Lines of bespoke code developing unique methodologies to enhance 
+                  performance across industry-standard challenges.
+                </div>
+              </div>
+
+              <div className="highlight-box">
+                <div className="highlight-label">CDL Alumni</div>
+                <div className="highlight-text">
+                  Graduated from Creative Destruction Lab, Quantum stream, 
+                  generation 2024–2025.
+                </div>
+              </div>
+
+              <div className="highlight-box">
+                <div className="highlight-label">Research Proven</div>
+                <div className="highlight-text">
+                  Demonstrated benefit in training QML models with smaller samples 
+                  that generalize better.
+                </div>
+              </div>
+
+              <div className="highlight-box">
+                <div className="highlight-label">BIQAIN Program</div>
+                <div className="highlight-text">
+                  Part of the BIQAIN (Bizkaia Quantum Advanced Industries) program 
+                  in Bizkaia, Spain.
+                </div>
+              </div>
+
+              <div className="highlight-box">
+                <div className="highlight-number">10+</div>
+                <div className="highlight-text">
+                  Ready-to-deploy QML and Optimization models available for 
+                  immediate industry application.
+                </div>
               </div>
             </div>
           </div>
