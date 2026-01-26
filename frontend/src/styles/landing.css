@@ -302,6 +302,10 @@
     flex-direction: column;
   }
 
+  .highlights-grid {
+    grid-template-columns: 1fr;
+  }
+
   .cta-links {
     flex-direction: column;
   }
