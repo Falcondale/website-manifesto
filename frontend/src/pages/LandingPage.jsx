@@ -115,6 +115,14 @@ export default function LandingPage() {
                   immediate industry application.
                 </div>
               </div>
+
+              <div className="highlight-box">
+                <div className="highlight-label">Multi-Industry</div>
+                <div className="highlight-text">
+                  Diverse applicability cases developed through participation 
+                  in projects and PoCs across multiple industries.
+                </div>
+              </div>
             </div>
           </div>
         </section>
