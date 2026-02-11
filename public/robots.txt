@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://squaregen.ai/sitemap.xml
+Sitemap: https://falcondale.github.io/website-manifesto/sitemap.xml

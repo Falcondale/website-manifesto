@@ -8,7 +8,13 @@ export default function LandingPage() {
       {/* Header */}
       <header className="header">
         <div className="header-content">
-          <div className="logo">FALCONDALE</div>
+          <div className="logo">
+            <img
+              className="logo-image"
+              src={`${process.env.PUBLIC_URL}/falcondale_logo.png`}
+              alt="Falcondale"
+            />
+          </div>
           <nav className="nav-links">
             <a href="mailto:contact@falcondale.pro" className="nav-link">
               Contact
